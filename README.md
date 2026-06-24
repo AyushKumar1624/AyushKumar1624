@@ -84,8 +84,8 @@ An AI-powered educational assistant designed to support engineering students wit
 
 ## Connect With Me
 
-📧 Email: arcy1624@gmail.com
+Email: arcy1624@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/ayush-kumar-063195362
+LinkedIn: www.linkedin.com/in/ayush-kumar-063195362
 
-🚀 GitHub: github.com/AyushKumar1624
+GitHub: github.com/AyushKumar1624
