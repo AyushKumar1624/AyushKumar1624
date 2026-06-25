@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Kumar 👋
 
-🎓 Electrical & Computer Science Student at KIIT University
+Electrical & Computer Science Student at KIIT University
 
 ## About Me
 
